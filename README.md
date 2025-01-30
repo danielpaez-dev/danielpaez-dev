@@ -2,8 +2,8 @@
 🔭 I’m currently working on my web portfolio using Next.js (framework of React), JavaScript, Tailwind, SCSS and Vercel  for a good-looking, clean and profesional introduction of myself and my projects.<br>🌱 I’m currently learning Django and Next.js<br>⚡ looking for my first job opportunity either frontend, backend or fullstack.
 
 ## 📬 Contact Me!
-📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)  
-📥 [Download my CV](https://github.com/danielpaez-dev/danielpaez-dev/raw/main/CV.pdf) (PDF)
+📧 Email: [danielpaez.dev@proton.me](mailto:danielpaez.dev@proton.me)  
+📥 [Download my CV](https://github.com/danielpaez-dev/danielpaez-dev/Daniel_Andrés_Páez_Rojas_CV.pdf) (PDF)
 
 
 ## 🌐 Socials:
