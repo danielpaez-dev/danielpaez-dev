@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on my web portfolio using Next.js (framework of React), JavaScript, Tailwind, SCSS and Vercel  for a good-looking, clean and profesional introduction of myself and my projects. <br>
 🌱 I’m currently learning Django and Next.js <br>
 ⚡ Looking for my first job opportunity either frontend, backend or fullstack.
@@ -7,11 +7,11 @@
 📧 Email: [danielpaez.dev@proton.me](mailto:danielpaez.dev@proton.me) <br>
 📥 CV: [Download my CV](./Daniel_Andrés_Páez_Rojas_CV.pdf) (PDF)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielpaez-dev) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/danielpaez-dev/)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +31,7 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=danielpaez-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danielpaez-dev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaez-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
