@@ -1,4 +1,4 @@
-[Inglés](./README.md)
+[English](./README.md)
 
 # 💫 Sobre mí
 🔭 Actualmente estoy trabajando en un clon de Minesweeper de Google utilizando JavaScript, CSS y HTML. <br>
