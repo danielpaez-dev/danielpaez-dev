@@ -1,3 +1,5 @@
+[Español](./README-es.md)
+
 # 💫 About Me
 🔭 I’m currently working on a google minesweeper clone with vanilla javascript, css and HMTL <br>
 🌱 I’m currently learning Django and creating projects <br>
