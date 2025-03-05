@@ -1,6 +1,6 @@
 # 💫 About Me
-🔭 I’m currently working on my web portfolio using Next.js (framework of React), JavaScript, Tailwind, SCSS and Vercel  for a good-looking, clean and profesional introduction of myself and my projects. <br>
-🌱 I’m currently learning Django and Next.js <br>
+🔭 I’m currently working on a google minesweeper clone with vanilla javascript, css and HMTL <br>
+🌱 I’m currently learning Django and creating projects <br>
 ⚡ Looking for my first job opportunity either frontend, backend or fullstack.
 
 ## 📬 Contact Me!
@@ -8,6 +8,7 @@
 📥 CV: [Download my CV](./Daniel_Andrés_Páez_Rojas_CV.pdf) (PDF)
 
 ## 🌐 Socials
+🌐 My website: [danielpaez.dev](https://www.danielpaez.dev) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielpaez-dev) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/danielpaez-dev/)
 
@@ -15,6 +16,7 @@
 
 ### **Frontend**
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" title="Astro"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
