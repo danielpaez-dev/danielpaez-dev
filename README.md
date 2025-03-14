@@ -1,7 +1,7 @@
 [Español](./README-es.md)
 
 # 💫 About Me
-🔭 I’m currently working on a google minesweeper clone with vanilla javascript, css and HMTL <br>
+🔭 I’m currently working on a google minesweeper clone with vanilla javascript, CSS and HMTL <br>
 🌱 I’m currently learning Django and creating projects <br>
 ⚡ Looking for my first job opportunity either frontend, backend or fullstack.
 
@@ -19,7 +19,6 @@
 ### **Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" title="Astro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
