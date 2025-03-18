@@ -2,7 +2,7 @@
 
 # 💫 Sobre mí
 🔭 Actualmente estoy trabajando en un clon de Minesweeper de Google utilizando JavaScript, CSS y HTML. <br>
-🌱 Actualmente estoy aprendiendo Django y creando proyectos. <br>
+🌱 Actualmente estoy aprendiendo Django, creando proyectos, resolviendo problemas de Leetcode e interesandome por la programación de IAs. <br>
 ⚡ Busco mi primera oportunidad laboral, ya sea en frontend, backend o fullstack.
 
 ## 📬 ¡Contáctame!
@@ -19,7 +19,6 @@
 ### **Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" title="Astro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
