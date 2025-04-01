@@ -51,9 +51,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielpaez-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielpaez-dev&theme=dark&hide_border=true)
-<br/>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaez-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=danielpaez-dev&icon=6&color=12)](https://visitcount.itsvg.in)
