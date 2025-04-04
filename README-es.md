@@ -1,7 +1,7 @@
 [English](./README.md)
 
 # 💫 Sobre mí
-🔭 Actualmente estoy trabajando en un clon de Minesweeper de Google utilizando JavaScript, CSS y HTML. <br>
+🔭 Actualmente estoy trabajando en una aplicación de notas full-stack con React y Django <br>
 🌱 Actualmente estoy aprendiendo Django, creando proyectos, resolviendo problemas de Leetcode e interesandome por la programación de IAs. <br>
 ⚡ Busco mi primera oportunidad laboral, ya sea en frontend, backend o fullstack.
 
