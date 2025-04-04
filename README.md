@@ -1,7 +1,7 @@
 [Español](./README-es.md)
 
 # 💫 About Me
-🔭 I’m currently working on a google minesweeper clone with vanilla javascript, CSS and HTML <br>
+🔭 I’m currently working on a full-stack note app with React and Django <br>
 🌱 I’m currently learning Django, creating projects, doing Leetcode problems and getting interested by AI programming <br>
 ⚡ Looking for my first job opportunity either frontend, backend or fullstack.
 
