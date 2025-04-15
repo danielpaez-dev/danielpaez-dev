@@ -1,9 +1,8 @@
 [Español](./README-es.md)
 
 # 💫 About Me
-🔭 I’m currently working on a full-stack note app with React and Django <br>
-🌱 I’m currently learning Django, creating projects, doing Leetcode problems and getting interested by AI programming <br>
-⚡ Looking for my first job opportunity either frontend, backend or fullstack.
+🌱 I’m currently learning Django, doing Leetcode problems and learning AI programming with Deeplearning.ai <br>
+⚡ Looking for my first job opportunity either frontend, backend or fullstack development.
 
 ## 📬 Contact Me!
 📧 Email: [danielpaez.dev@proton.me](mailto:danielpaez.dev@proton.me) <br>
