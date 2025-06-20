@@ -1,8 +1,8 @@
 [Español](./README-es.md)
 
 # 💫 About Me
-🌱 I’m currently learning Django, doing Leetcode problems and learning AI programming with Deeplearning.ai <br>
-⚡ Looking for my first job opportunity either frontend, backend or fullstack development.
+🌱 I’m currently learning data science and AI in 4GeeksAcademy <br>
+⚡ Looking for my first job opportunity either in data science, AI, frontend, backend or fullstack development.
 
 ## 📬 Contact Me!
 📧 Email: [danielpaez.dev@proton.me](mailto:danielpaez.dev@proton.me) <br>
@@ -14,6 +14,15 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/danielpaez-dev/)
 
 # 💻 Tech Stack
+
+### **AI & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" height="40" title="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" title="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" title="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" title="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3B7D76?style=for-the-badge&logo=seaborn&logoColor=white" height="40" title="Seaborn"/>
+</p>
 
 ### **Frontend**
 <p align="left">
