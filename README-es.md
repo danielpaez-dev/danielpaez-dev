@@ -1,8 +1,8 @@
 [English](./README.md)
 
 # 💫 Sobre mí
-🌱 Actualmente estoy aprendiendo ciencia de datos e IA con 4GeeksAcademy<br>
-⚡ Busco mi primera oportunidad laboral, ya sea en ciencias de datos, IA, desarrollo frontend, backend o fullstack.
+🌱 Actualmente estoy aprendiendo ciencia de datos e IA <br>
+⚡ Busco mi primera oportunidad laboral, ya sea en ciencias de datos, IA, ML y DL.
 
 ## 📬 ¡Contáctame!
 📧 Email: [danielpaez.dev@proton.me](mailto:danielpaez.dev@proton.me) <br>
@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" title="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" title="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3B7D76?style=for-the-badge&logo=seaborn&logoColor=white" height="40" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" title="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40" title="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="40" title="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40" title="PyTorch"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" title="Streamlit"/>
 </p>
 
 ### **Frontend**
@@ -67,3 +72,4 @@
 [![](https://visitcount.itsvg.in/api?id=danielpaez-dev&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
