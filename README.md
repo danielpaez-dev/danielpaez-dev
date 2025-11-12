@@ -4,7 +4,7 @@
 I am a **data scientist** and a **full-stack develoiper**. My passion is applying **machine learning** and **deep learning** to solve real-world problems, with a solid technical foundation in software development. Always studying, always creating.
 
 ## 📬 Contact Me!
-[![CV](https://img.shields.io/badge/Download%20CV-PDF-0077B5?style=flat&logo=adobeacrobatreader&logoColor=white)](./Daniel_Andrés_Páez_Rojas_CV.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-PDF-0077B5?style=flat&logo=adobeacrobatreader&logoColor=white)](./CV_DANIEL_ANDRES_PAEZ_ROJAS.pdf)
 [![Email](https://img.shields.io/badge/Email-danielpaez.dev@proton.me-B23B36?style=flat&logo=protonmail&logoColor=white)](mailto:danielpaez.dev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielpaez-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/danielpaez-dev/)
